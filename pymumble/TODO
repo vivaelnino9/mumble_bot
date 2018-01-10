@@ -1,0 +1,11 @@
+
+- link, create_link, store_link, drop_link
+- Retrieve last 10 eu's for specific player -> !eu poobie
+- Make tree calls : !tree majors -> Blockwork Majors looking for scrim!
+- Auth decorator so only ABO players can make commands
+- Game mode, move players into game channel for game, mute players that enter channel
+- Admin powers, putting it to sleep: !sleep, !wake
+- Remind me in x minutes: !remind <min> <sec>
+- Search for players in the mumble server
+- Timeout if user makes too many calls
+- Store game schedule

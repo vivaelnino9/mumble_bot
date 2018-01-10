@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mumble-bot-191703",
+  "private_key_id": "cf4999137a37b6ba8a7185989ace6b29917373b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTSeuBMRWD4YgF\nYY3Tz1u8wnHIrunOoqGhDTgNWzpOheVxCzVJZ8aardwl/8MuURxZCpjNyEw+N5s5\nyQ6tpg+AGvkdquf9MQFSJ4ccXrTLJDgGzYnBXJD8hqorXQz4YwJJttdjzIEeMZ+u\nOnKyn7OlthMkuEIWt6u0j1yNXxbLQsJffzGP/hcQnLZGezA0hvUfZGs7Z1ny8T7G\n2p47ZTGtf+jTEUN1+HNp/fB0ayu3ZCRs7CWl4q/YBkqblZoDOLfOptRBn9qsA3mB\nVl5Lg362FhE8nQuk+sbLHe0qlER87AhNvYfKAzMBIjO8GoOVRZcq7dLcN/SmL+Tl\nQ9WcdST9AgMBAAECggEAB2SPUVsmDqdUws7FxLWSlxFyTpcI1m0m0h4xX02ZRezr\nQ7APH9Ukzr3gFX1JjJnpGm146L8GJJQorIDY2wxpKkPnV67RRLDoWVdJjoglc8ko\njlu2jaCJ8H1cFWiBVGyPGdoEVyPX7bZHSR7sQKHpX4Dg0m4Bs/lJEFLcJmnUv+0I\nWsQomngiY8k0w1SQK/r8H/7wKmmk7wMzzISzGNKDN1M/MDkC0dgeBxg8gfqB2FQ8\nUz5upTtEbVxKgkLybyD/5hRknK1Dz7l0NUol1VX1UflFBxxT6uI41NsGzWPt5I8f\n34Y8z1brLcutwzATcy/A0Tt3WjwQ3y7id8Tgzzd+6QKBgQDyfh9B+MWJi64eq3Mj\nLt9jorhxFyT3I9ujYK4sHCK0d289Z4xUFmOr1y2XYbUUC5NWyMRoYsjLz+SKSctn\nY3VcMzCBcrpQDKAl0nwxugyAHZP4f6QvM9WXyyUcINhg9I1h/c9ZpfFL7f1Bw+hD\nto3HfRvEGpVxx/ZgyU0kASlihQKBgQDfDta1JGQi1mQBEtAQKWiN6EkoWXCYHj/8\ndtFE/TmlimnQDPc9jmJN/g1IXkMV7lzbblpq6yg4Ag9wMXmXI2Ak2ShEAhHHumc2\nwnhwJkbCBR1ZwQQ+yFbUgcdXpeR+gk+yjFC4mmuMLQOh/CiwWvNjr/wGXGesnx6Q\n5xwmSa5OGQKBgQDGvETD3a2PV7HBIwR+zjh4wPBmhvBdt76XPHIiZoCu5L9/VLD2\nbU8Mk5Ki4Yn1PrNnSa1mW6dzGhOUnnwcZK/Xe4CCZtN5LY/Gz6XHX1JFYXhXDc0y\nfknMWMo2LlkHxQVmTQw1zcFfWFHaJ0Pg0umJl+g8pQjbsmUi13foTSdsvQKBgG3E\nhJ5xwSFvtZjdpCw/5GbpJ49GrGT/hed8pTE5GDRBsB6lMspFFlVhLzIsyQCy41lM\nrgwtmwYs5WIFxts8mmSnxOvqxMswDPjirJgsDegO0knH9Ynb1vcOwoV8arxi7ktk\nR5kAzOoXgNEnIPLgXyPwh6qtsIs/ZrBSOwUQf0mJAoGBAI6JDlPAyH0xKu9L+Eq4\nykNf1U2tSthwKN95WLQLVXeNdh9163LlXzcz9KnchBiVmaD0nkMIX2qqcBNEHJ8P\nPwQKLa4smsQJTudsKY645dYuscSyRWuUwOkS6v/aghSW4mlVKD3Cc3vc0NdUUT+N\nThzJkHiNjDpZU1zHuAlwwJyJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "mumble-bot@mumble-bot-191703.iam.gserviceaccount.com",
+  "client_id": "117888833974998121377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mumble-bot%40mumble-bot-191703.iam.gserviceaccount.com"
+}
